@@ -46,7 +46,7 @@ For macOS, you can download `rar` or any other unrar-ing tools. Here is an examp
 brew install rar
 ```
 
-For Windows download and install [WinRAR](https://www.rarlab.com/download.html). Make sure to add WinRAR to your system's PATH during installation or use the full path to `unrar.exe` in the following commands.
+For Windows download and install [WinRAR](https://www.rarlab.com/download.htm). Make sure to add WinRAR to your system's PATH during installation or use the full path to `unrar.exe` in the following commands.
 
 Once you have your API key and rar extraction tool, you can download the datasets by running the following commands in your terminal (or Command Prompt for Windows):
 
